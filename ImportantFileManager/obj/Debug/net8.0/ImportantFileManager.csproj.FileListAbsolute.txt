@@ -1,0 +1,14 @@
+F:\Programming\oc_laba_3\ImportantFileManager\ImportantFileManager\bin\Debug\net8.0\ImportantFileManager.exe
+F:\Programming\oc_laba_3\ImportantFileManager\ImportantFileManager\bin\Debug\net8.0\ImportantFileManager.deps.json
+F:\Programming\oc_laba_3\ImportantFileManager\ImportantFileManager\bin\Debug\net8.0\ImportantFileManager.runtimeconfig.json
+F:\Programming\oc_laba_3\ImportantFileManager\ImportantFileManager\bin\Debug\net8.0\ImportantFileManager.dll
+F:\Programming\oc_laba_3\ImportantFileManager\ImportantFileManager\bin\Debug\net8.0\ImportantFileManager.pdb
+F:\Programming\oc_laba_3\ImportantFileManager\ImportantFileManager\obj\Debug\net8.0\ImportantFileManager.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programming\oc_laba_3\ImportantFileManager\ImportantFileManager\obj\Debug\net8.0\ImportantFileManager.AssemblyInfoInputs.cache
+F:\Programming\oc_laba_3\ImportantFileManager\ImportantFileManager\obj\Debug\net8.0\ImportantFileManager.AssemblyInfo.cs
+F:\Programming\oc_laba_3\ImportantFileManager\ImportantFileManager\obj\Debug\net8.0\ImportantFileManager.csproj.CoreCompileInputs.cache
+F:\Programming\oc_laba_3\ImportantFileManager\ImportantFileManager\obj\Debug\net8.0\ImportantFileManager.dll
+F:\Programming\oc_laba_3\ImportantFileManager\ImportantFileManager\obj\Debug\net8.0\refint\ImportantFileManager.dll
+F:\Programming\oc_laba_3\ImportantFileManager\ImportantFileManager\obj\Debug\net8.0\ImportantFileManager.pdb
+F:\Programming\oc_laba_3\ImportantFileManager\ImportantFileManager\obj\Debug\net8.0\ImportantFileManager.genruntimeconfig.cache
+F:\Programming\oc_laba_3\ImportantFileManager\ImportantFileManager\obj\Debug\net8.0\ref\ImportantFileManager.dll
